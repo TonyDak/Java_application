@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
 
 # Thông tin chung
-- Phần mềm “Quản Lý Bán vé máy bay” <br>
+- Phần mềm “Quản lí bán vé máy bay” <br>
 - Phần mềm ba gồm bán vé và quản lí dịch vụ và các ván đề liên quan để chuyến bay.<br>
 # Chức Năng Của Phần Mềm
 ### Người dùng đăng nhập, phần mêm chia ra nhiều chức năng khác nhau<br>
@@ -20,7 +20,7 @@
 - Quản lí máy bay
 - Quản lí sân bay
 - Quản lí hãng
-- Quản lí nhân <br>
+- Quản lí nhân viên <br>
 
 # Những hạn chế
 -	Giao diện chưa được bắt mắt
